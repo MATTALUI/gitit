@@ -8,5 +8,7 @@ Accept your new overlords.
 
 Enjoy your new reality.
 
-Truly yours, 
+Truly yours,
 Covfefe.
+
+console.log('hello, mom');
